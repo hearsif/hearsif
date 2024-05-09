@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hearsif
+- 👋 Hi, I’m @hearsiff
 - 👀 I’m interested in ethical hacking and game devloper
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 hearsiff@gmail.com
 
 <!---
 hearsif/hearsif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
